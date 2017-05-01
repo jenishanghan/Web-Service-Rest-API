@@ -1,0 +1,23 @@
+﻿@model WebApplication1.Models.SumModels
+@{ 
+    ViewBag.Title = "Result Page";
+}
+<div>
+    <div class="form-group">
+        @Html.LabelFor(a => a.result, new { @class = "col-lg-3 col-sm-2 control-label required" })
+        <div class="col-lg-9">
+            @Html.TextBoxFor(m => m.result, new
+       {
+
+           @class = "form-control",
+
+           placeholder = "result",
+           focus = "true",
+           disable="disabled"
+       })
+            @Html.ValidationMessageFor(m => m.result)
+
+        </div>   
+    </div>
+</div>
+    

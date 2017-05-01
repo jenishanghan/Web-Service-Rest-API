@@ -1,0 +1,23 @@
+﻿@model WebApplication1.Models.CountryModels
+@{ 
+    ViewBag.Title = "Result Page";
+}
+<div>
+    <div class="form-group">
+        @Html.LabelFor(a => a.currencyName, new { @class = "col-lg-3 col-sm-2 control-label required" })
+        <div class="col-lg-9">
+            @Html.TextBoxFor(m => m.currencyName, new
+       {
+
+           @class = "form-control",
+
+           placeholder = "result",
+           focus = "true",
+           disable="disabled"
+       })
+            @Html.ValidationMessageFor(m => m.currencyName)
+
+        </div>   
+    </div>
+</div>
+    

@@ -1,0 +1,246 @@
+c:\users\jenish anghan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\ApplicationInsights.config
+c:\users\jenish anghan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+c:\users\jenish anghan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\jenish anghan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\jenish anghan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\jenish anghan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\jenish anghan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\jenish anghan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\jenish anghan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+c:\users\jenish anghan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\jenish anghan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+c:\users\jenish anghan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+c:\users\jenish anghan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+c:\users\jenish anghan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+c:\users\jenish anghan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\WebApplication1.dll
+c:\users\jenish anghan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+c:\users\jenish anghan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Antlr3.Runtime.dll
+c:\users\jenish anghan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\EntityFramework.dll
+c:\users\jenish anghan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.dll
+c:\users\jenish anghan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\jenish anghan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\jenish anghan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\jenish anghan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\jenish anghan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.dll
+c:\users\jenish anghan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+c:\users\jenish anghan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+c:\users\jenish anghan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\jenish anghan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\jenish anghan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\jenish anghan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\jenish anghan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.dll
+c:\users\jenish anghan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\jenish anghan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\jenish anghan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.dll
+c:\users\jenish anghan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\jenish anghan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Google.dll
+c:\users\jenish anghan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\jenish anghan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\jenish anghan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\jenish anghan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+c:\users\jenish anghan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+c:\users\jenish anghan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Owin.dll
+c:\users\jenish anghan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Web.Helpers.dll
+c:\users\jenish anghan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Web.Mvc.dll
+c:\users\jenish anghan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Web.Optimization.dll
+c:\users\jenish anghan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Web.Razor.dll
+c:\users\jenish anghan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+c:\users\jenish anghan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Web.WebPages.dll
+c:\users\jenish anghan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.dll
+c:\users\jenish anghan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\WebGrease.dll
+c:\users\jenish anghan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\jenish anghan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\jenish anghan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.xml
+c:\users\jenish anghan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+c:\users\jenish anghan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.xml
+c:\users\jenish anghan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\jenish anghan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Web.Helpers.xml
+c:\users\jenish anghan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Web.Mvc.xml
+c:\users\jenish anghan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Web.Optimization.xml
+c:\users\jenish anghan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Web.Razor.xml
+c:\users\jenish anghan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Web.WebPages.xml
+c:\users\jenish anghan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+c:\users\jenish anghan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.xml
+c:\users\jenish anghan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Antlr3.Runtime.pdb
+c:\users\jenish anghan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml
+c:\users\jenish anghan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\EntityFramework.xml
+c:\users\jenish anghan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.xml
+c:\users\jenish anghan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\jenish anghan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\jenish anghan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\jenish anghan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.xml
+c:\users\jenish anghan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\jenish anghan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.xml
+c:\users\jenish anghan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\jenish anghan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\jenish anghan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\jenish anghan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Google.xml
+c:\users\jenish anghan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\jenish anghan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\jenish anghan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+c:\users\jenish anghan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+c:\users\jenish anghan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Jenish Anghan\Documents\Visual Studio 2015\Projects\WSCallUsingAngular\WebApplication1\bin\ApplicationInsights.config
+C:\Users\Jenish Anghan\Documents\Visual Studio 2015\Projects\WSCallUsingAngular\WebApplication1\bin\roslyn\csc.exe
+C:\Users\Jenish Anghan\Documents\Visual Studio 2015\Projects\WSCallUsingAngular\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jenish Anghan\Documents\Visual Studio 2015\Projects\WSCallUsingAngular\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jenish Anghan\Documents\Visual Studio 2015\Projects\WSCallUsingAngular\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Jenish Anghan\Documents\Visual Studio 2015\Projects\WSCallUsingAngular\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jenish Anghan\Documents\Visual Studio 2015\Projects\WSCallUsingAngular\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Jenish Anghan\Documents\Visual Studio 2015\Projects\WSCallUsingAngular\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jenish Anghan\Documents\Visual Studio 2015\Projects\WSCallUsingAngular\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Jenish Anghan\Documents\Visual Studio 2015\Projects\WSCallUsingAngular\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Jenish Anghan\Documents\Visual Studio 2015\Projects\WSCallUsingAngular\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\Jenish Anghan\Documents\Visual Studio 2015\Projects\WSCallUsingAngular\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\Jenish Anghan\Documents\Visual Studio 2015\Projects\WSCallUsingAngular\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Jenish Anghan\Documents\Visual Studio 2015\Projects\WSCallUsingAngular\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\Jenish Anghan\Documents\Visual Studio 2015\Projects\WSCallUsingAngular\WebApplication1\bin\WebApplication1.dll
+C:\Users\Jenish Anghan\Documents\Visual Studio 2015\Projects\WSCallUsingAngular\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Jenish Anghan\Documents\Visual Studio 2015\Projects\WSCallUsingAngular\WebApplication1\bin\Antlr3.Runtime.dll
+C:\Users\Jenish Anghan\Documents\Visual Studio 2015\Projects\WSCallUsingAngular\WebApplication1\bin\EntityFramework.dll
+C:\Users\Jenish Anghan\Documents\Visual Studio 2015\Projects\WSCallUsingAngular\WebApplication1\bin\EntityFramework.SqlServer.dll
+C:\Users\Jenish Anghan\Documents\Visual Studio 2015\Projects\WSCallUsingAngular\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Jenish Anghan\Documents\Visual Studio 2015\Projects\WSCallUsingAngular\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Jenish Anghan\Documents\Visual Studio 2015\Projects\WSCallUsingAngular\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Jenish Anghan\Documents\Visual Studio 2015\Projects\WSCallUsingAngular\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Jenish Anghan\Documents\Visual Studio 2015\Projects\WSCallUsingAngular\WebApplication1\bin\Microsoft.AI.Web.dll
+C:\Users\Jenish Anghan\Documents\Visual Studio 2015\Projects\WSCallUsingAngular\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Jenish Anghan\Documents\Visual Studio 2015\Projects\WSCallUsingAngular\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Jenish Anghan\Documents\Visual Studio 2015\Projects\WSCallUsingAngular\WebApplication1\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Jenish Anghan\Documents\Visual Studio 2015\Projects\WSCallUsingAngular\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Jenish Anghan\Documents\Visual Studio 2015\Projects\WSCallUsingAngular\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Jenish Anghan\Documents\Visual Studio 2015\Projects\WSCallUsingAngular\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jenish Anghan\Documents\Visual Studio 2015\Projects\WSCallUsingAngular\WebApplication1\bin\Microsoft.Owin.dll
+C:\Users\Jenish Anghan\Documents\Visual Studio 2015\Projects\WSCallUsingAngular\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Jenish Anghan\Documents\Visual Studio 2015\Projects\WSCallUsingAngular\WebApplication1\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Jenish Anghan\Documents\Visual Studio 2015\Projects\WSCallUsingAngular\WebApplication1\bin\Microsoft.Owin.Security.dll
+C:\Users\Jenish Anghan\Documents\Visual Studio 2015\Projects\WSCallUsingAngular\WebApplication1\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Jenish Anghan\Documents\Visual Studio 2015\Projects\WSCallUsingAngular\WebApplication1\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Jenish Anghan\Documents\Visual Studio 2015\Projects\WSCallUsingAngular\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Jenish Anghan\Documents\Visual Studio 2015\Projects\WSCallUsingAngular\WebApplication1\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Jenish Anghan\Documents\Visual Studio 2015\Projects\WSCallUsingAngular\WebApplication1\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Jenish Anghan\Documents\Visual Studio 2015\Projects\WSCallUsingAngular\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Jenish Anghan\Documents\Visual Studio 2015\Projects\WSCallUsingAngular\WebApplication1\bin\Newtonsoft.Json.dll
+C:\Users\Jenish Anghan\Documents\Visual Studio 2015\Projects\WSCallUsingAngular\WebApplication1\bin\Owin.dll
+C:\Users\Jenish Anghan\Documents\Visual Studio 2015\Projects\WSCallUsingAngular\WebApplication1\bin\System.Web.Helpers.dll
+C:\Users\Jenish Anghan\Documents\Visual Studio 2015\Projects\WSCallUsingAngular\WebApplication1\bin\System.Web.Mvc.dll
+C:\Users\Jenish Anghan\Documents\Visual Studio 2015\Projects\WSCallUsingAngular\WebApplication1\bin\System.Web.Optimization.dll
+C:\Users\Jenish Anghan\Documents\Visual Studio 2015\Projects\WSCallUsingAngular\WebApplication1\bin\System.Web.Razor.dll
+C:\Users\Jenish Anghan\Documents\Visual Studio 2015\Projects\WSCallUsingAngular\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Jenish Anghan\Documents\Visual Studio 2015\Projects\WSCallUsingAngular\WebApplication1\bin\System.Web.WebPages.dll
+C:\Users\Jenish Anghan\Documents\Visual Studio 2015\Projects\WSCallUsingAngular\WebApplication1\bin\System.Web.WebPages.Razor.dll
+C:\Users\Jenish Anghan\Documents\Visual Studio 2015\Projects\WSCallUsingAngular\WebApplication1\bin\WebGrease.dll
+C:\Users\Jenish Anghan\Documents\Visual Studio 2015\Projects\WSCallUsingAngular\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Jenish Anghan\Documents\Visual Studio 2015\Projects\WSCallUsingAngular\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Jenish Anghan\Documents\Visual Studio 2015\Projects\WSCallUsingAngular\WebApplication1\bin\Microsoft.AI.Web.xml
+C:\Users\Jenish Anghan\Documents\Visual Studio 2015\Projects\WSCallUsingAngular\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Jenish Anghan\Documents\Visual Studio 2015\Projects\WSCallUsingAngular\WebApplication1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Jenish Anghan\Documents\Visual Studio 2015\Projects\WSCallUsingAngular\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jenish Anghan\Documents\Visual Studio 2015\Projects\WSCallUsingAngular\WebApplication1\bin\System.Web.Helpers.xml
+C:\Users\Jenish Anghan\Documents\Visual Studio 2015\Projects\WSCallUsingAngular\WebApplication1\bin\System.Web.Mvc.xml
+C:\Users\Jenish Anghan\Documents\Visual Studio 2015\Projects\WSCallUsingAngular\WebApplication1\bin\System.Web.Optimization.xml
+C:\Users\Jenish Anghan\Documents\Visual Studio 2015\Projects\WSCallUsingAngular\WebApplication1\bin\System.Web.Razor.xml
+C:\Users\Jenish Anghan\Documents\Visual Studio 2015\Projects\WSCallUsingAngular\WebApplication1\bin\System.Web.WebPages.xml
+C:\Users\Jenish Anghan\Documents\Visual Studio 2015\Projects\WSCallUsingAngular\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Jenish Anghan\Documents\Visual Studio 2015\Projects\WSCallUsingAngular\WebApplication1\bin\System.Web.WebPages.Razor.xml
+C:\Users\Jenish Anghan\Documents\Visual Studio 2015\Projects\WSCallUsingAngular\WebApplication1\bin\Antlr3.Runtime.pdb
+C:\Users\Jenish Anghan\Documents\Visual Studio 2015\Projects\WSCallUsingAngular\WebApplication1\bin\Newtonsoft.Json.xml
+C:\Users\Jenish Anghan\Documents\Visual Studio 2015\Projects\WSCallUsingAngular\WebApplication1\bin\EntityFramework.xml
+C:\Users\Jenish Anghan\Documents\Visual Studio 2015\Projects\WSCallUsingAngular\WebApplication1\bin\EntityFramework.SqlServer.xml
+C:\Users\Jenish Anghan\Documents\Visual Studio 2015\Projects\WSCallUsingAngular\WebApplication1\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Jenish Anghan\Documents\Visual Studio 2015\Projects\WSCallUsingAngular\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Jenish Anghan\Documents\Visual Studio 2015\Projects\WSCallUsingAngular\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Jenish Anghan\Documents\Visual Studio 2015\Projects\WSCallUsingAngular\WebApplication1\bin\Microsoft.Owin.xml
+C:\Users\Jenish Anghan\Documents\Visual Studio 2015\Projects\WSCallUsingAngular\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Jenish Anghan\Documents\Visual Studio 2015\Projects\WSCallUsingAngular\WebApplication1\bin\Microsoft.Owin.Security.xml
+C:\Users\Jenish Anghan\Documents\Visual Studio 2015\Projects\WSCallUsingAngular\WebApplication1\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Jenish Anghan\Documents\Visual Studio 2015\Projects\WSCallUsingAngular\WebApplication1\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Jenish Anghan\Documents\Visual Studio 2015\Projects\WSCallUsingAngular\WebApplication1\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Jenish Anghan\Documents\Visual Studio 2015\Projects\WSCallUsingAngular\WebApplication1\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Jenish Anghan\Documents\Visual Studio 2015\Projects\WSCallUsingAngular\WebApplication1\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Jenish Anghan\Documents\Visual Studio 2015\Projects\WSCallUsingAngular\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Jenish Anghan\Documents\Visual Studio 2015\Projects\WSCallUsingAngular\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Jenish Anghan\Documents\Visual Studio 2015\Projects\WSCallUsingAngular\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Jenish Anghan\Documents\Visual Studio 2015\Projects\WSCallUsingAngular\WebApplication1\obj\Debug\WebApplication1.pdb
+E:\VIT\DAs\2\Web Service\Web Service_DA1\WSCallUsingAngular\WebApplication1\bin\ApplicationInsights.config
+E:\VIT\DAs\2\Web Service\Web Service_DA1\WSCallUsingAngular\WebApplication1\bin\roslyn\csc.exe
+E:\VIT\DAs\2\Web Service\Web Service_DA1\WSCallUsingAngular\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\VIT\DAs\2\Web Service\Web Service_DA1\WSCallUsingAngular\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\VIT\DAs\2\Web Service\Web Service_DA1\WSCallUsingAngular\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\VIT\DAs\2\Web Service\Web Service_DA1\WSCallUsingAngular\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\VIT\DAs\2\Web Service\Web Service_DA1\WSCallUsingAngular\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\VIT\DAs\2\Web Service\Web Service_DA1\WSCallUsingAngular\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\VIT\DAs\2\Web Service\Web Service_DA1\WSCallUsingAngular\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+E:\VIT\DAs\2\Web Service\Web Service_DA1\WSCallUsingAngular\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+E:\VIT\DAs\2\Web Service\Web Service_DA1\WSCallUsingAngular\WebApplication1\bin\roslyn\vbc.exe
+E:\VIT\DAs\2\Web Service\Web Service_DA1\WSCallUsingAngular\WebApplication1\bin\roslyn\VBCSCompiler.exe
+E:\VIT\DAs\2\Web Service\Web Service_DA1\WSCallUsingAngular\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+E:\VIT\DAs\2\Web Service\Web Service_DA1\WSCallUsingAngular\WebApplication1\bin\WebApplication1.dll.config
+E:\VIT\DAs\2\Web Service\Web Service_DA1\WSCallUsingAngular\WebApplication1\bin\WebApplication1.dll
+E:\VIT\DAs\2\Web Service\Web Service_DA1\WSCallUsingAngular\WebApplication1\bin\WebApplication1.pdb
+E:\VIT\DAs\2\Web Service\Web Service_DA1\WSCallUsingAngular\WebApplication1\bin\Antlr3.Runtime.dll
+E:\VIT\DAs\2\Web Service\Web Service_DA1\WSCallUsingAngular\WebApplication1\bin\EntityFramework.dll
+E:\VIT\DAs\2\Web Service\Web Service_DA1\WSCallUsingAngular\WebApplication1\bin\EntityFramework.SqlServer.dll
+E:\VIT\DAs\2\Web Service\Web Service_DA1\WSCallUsingAngular\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+E:\VIT\DAs\2\Web Service\Web Service_DA1\WSCallUsingAngular\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+E:\VIT\DAs\2\Web Service\Web Service_DA1\WSCallUsingAngular\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\VIT\DAs\2\Web Service\Web Service_DA1\WSCallUsingAngular\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\VIT\DAs\2\Web Service\Web Service_DA1\WSCallUsingAngular\WebApplication1\bin\Microsoft.AI.Web.dll
+E:\VIT\DAs\2\Web Service\Web Service_DA1\WSCallUsingAngular\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+E:\VIT\DAs\2\Web Service\Web Service_DA1\WSCallUsingAngular\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+E:\VIT\DAs\2\Web Service\Web Service_DA1\WSCallUsingAngular\WebApplication1\bin\Microsoft.AspNet.Identity.Core.dll
+E:\VIT\DAs\2\Web Service\Web Service_DA1\WSCallUsingAngular\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\VIT\DAs\2\Web Service\Web Service_DA1\WSCallUsingAngular\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\VIT\DAs\2\Web Service\Web Service_DA1\WSCallUsingAngular\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\VIT\DAs\2\Web Service\Web Service_DA1\WSCallUsingAngular\WebApplication1\bin\Microsoft.Owin.dll
+E:\VIT\DAs\2\Web Service\Web Service_DA1\WSCallUsingAngular\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\VIT\DAs\2\Web Service\Web Service_DA1\WSCallUsingAngular\WebApplication1\bin\Microsoft.Owin.Security.Cookies.dll
+E:\VIT\DAs\2\Web Service\Web Service_DA1\WSCallUsingAngular\WebApplication1\bin\Microsoft.Owin.Security.dll
+E:\VIT\DAs\2\Web Service\Web Service_DA1\WSCallUsingAngular\WebApplication1\bin\Microsoft.Owin.Security.Facebook.dll
+E:\VIT\DAs\2\Web Service\Web Service_DA1\WSCallUsingAngular\WebApplication1\bin\Microsoft.Owin.Security.Google.dll
+E:\VIT\DAs\2\Web Service\Web Service_DA1\WSCallUsingAngular\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\VIT\DAs\2\Web Service\Web Service_DA1\WSCallUsingAngular\WebApplication1\bin\Microsoft.Owin.Security.OAuth.dll
+E:\VIT\DAs\2\Web Service\Web Service_DA1\WSCallUsingAngular\WebApplication1\bin\Microsoft.Owin.Security.Twitter.dll
+E:\VIT\DAs\2\Web Service\Web Service_DA1\WSCallUsingAngular\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+E:\VIT\DAs\2\Web Service\Web Service_DA1\WSCallUsingAngular\WebApplication1\bin\Newtonsoft.Json.dll
+E:\VIT\DAs\2\Web Service\Web Service_DA1\WSCallUsingAngular\WebApplication1\bin\Owin.dll
+E:\VIT\DAs\2\Web Service\Web Service_DA1\WSCallUsingAngular\WebApplication1\bin\System.Web.Helpers.dll
+E:\VIT\DAs\2\Web Service\Web Service_DA1\WSCallUsingAngular\WebApplication1\bin\System.Web.Mvc.dll
+E:\VIT\DAs\2\Web Service\Web Service_DA1\WSCallUsingAngular\WebApplication1\bin\System.Web.Optimization.dll
+E:\VIT\DAs\2\Web Service\Web Service_DA1\WSCallUsingAngular\WebApplication1\bin\System.Web.Razor.dll
+E:\VIT\DAs\2\Web Service\Web Service_DA1\WSCallUsingAngular\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+E:\VIT\DAs\2\Web Service\Web Service_DA1\WSCallUsingAngular\WebApplication1\bin\System.Web.WebPages.dll
+E:\VIT\DAs\2\Web Service\Web Service_DA1\WSCallUsingAngular\WebApplication1\bin\System.Web.WebPages.Razor.dll
+E:\VIT\DAs\2\Web Service\Web Service_DA1\WSCallUsingAngular\WebApplication1\bin\WebGrease.dll
+E:\VIT\DAs\2\Web Service\Web Service_DA1\WSCallUsingAngular\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+E:\VIT\DAs\2\Web Service\Web Service_DA1\WSCallUsingAngular\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\VIT\DAs\2\Web Service\Web Service_DA1\WSCallUsingAngular\WebApplication1\bin\Microsoft.AI.Web.xml
+E:\VIT\DAs\2\Web Service\Web Service_DA1\WSCallUsingAngular\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+E:\VIT\DAs\2\Web Service\Web Service_DA1\WSCallUsingAngular\WebApplication1\bin\Microsoft.ApplicationInsights.xml
+E:\VIT\DAs\2\Web Service\Web Service_DA1\WSCallUsingAngular\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\VIT\DAs\2\Web Service\Web Service_DA1\WSCallUsingAngular\WebApplication1\bin\System.Web.Helpers.xml
+E:\VIT\DAs\2\Web Service\Web Service_DA1\WSCallUsingAngular\WebApplication1\bin\System.Web.Mvc.xml
+E:\VIT\DAs\2\Web Service\Web Service_DA1\WSCallUsingAngular\WebApplication1\bin\System.Web.Optimization.xml
+E:\VIT\DAs\2\Web Service\Web Service_DA1\WSCallUsingAngular\WebApplication1\bin\System.Web.Razor.xml
+E:\VIT\DAs\2\Web Service\Web Service_DA1\WSCallUsingAngular\WebApplication1\bin\System.Web.WebPages.xml
+E:\VIT\DAs\2\Web Service\Web Service_DA1\WSCallUsingAngular\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+E:\VIT\DAs\2\Web Service\Web Service_DA1\WSCallUsingAngular\WebApplication1\bin\System.Web.WebPages.Razor.xml
+E:\VIT\DAs\2\Web Service\Web Service_DA1\WSCallUsingAngular\WebApplication1\bin\Antlr3.Runtime.pdb
+E:\VIT\DAs\2\Web Service\Web Service_DA1\WSCallUsingAngular\WebApplication1\bin\Newtonsoft.Json.xml
+E:\VIT\DAs\2\Web Service\Web Service_DA1\WSCallUsingAngular\WebApplication1\bin\EntityFramework.xml
+E:\VIT\DAs\2\Web Service\Web Service_DA1\WSCallUsingAngular\WebApplication1\bin\EntityFramework.SqlServer.xml
+E:\VIT\DAs\2\Web Service\Web Service_DA1\WSCallUsingAngular\WebApplication1\bin\Microsoft.AspNet.Identity.Core.xml
+E:\VIT\DAs\2\Web Service\Web Service_DA1\WSCallUsingAngular\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\VIT\DAs\2\Web Service\Web Service_DA1\WSCallUsingAngular\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\VIT\DAs\2\Web Service\Web Service_DA1\WSCallUsingAngular\WebApplication1\bin\Microsoft.Owin.xml
+E:\VIT\DAs\2\Web Service\Web Service_DA1\WSCallUsingAngular\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\VIT\DAs\2\Web Service\Web Service_DA1\WSCallUsingAngular\WebApplication1\bin\Microsoft.Owin.Security.xml
+E:\VIT\DAs\2\Web Service\Web Service_DA1\WSCallUsingAngular\WebApplication1\bin\Microsoft.Owin.Security.Facebook.xml
+E:\VIT\DAs\2\Web Service\Web Service_DA1\WSCallUsingAngular\WebApplication1\bin\Microsoft.Owin.Security.Cookies.xml
+E:\VIT\DAs\2\Web Service\Web Service_DA1\WSCallUsingAngular\WebApplication1\bin\Microsoft.Owin.Security.OAuth.xml
+E:\VIT\DAs\2\Web Service\Web Service_DA1\WSCallUsingAngular\WebApplication1\bin\Microsoft.Owin.Security.Google.xml
+E:\VIT\DAs\2\Web Service\Web Service_DA1\WSCallUsingAngular\WebApplication1\bin\Microsoft.Owin.Security.Twitter.xml
+E:\VIT\DAs\2\Web Service\Web Service_DA1\WSCallUsingAngular\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\VIT\DAs\2\Web Service\Web Service_DA1\WSCallUsingAngular\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+E:\VIT\DAs\2\Web Service\Web Service_DA1\WSCallUsingAngular\WebApplication1\obj\Debug\WebApplication1.dll
+E:\VIT\DAs\2\Web Service\Web Service_DA1\WSCallUsingAngular\WebApplication1\obj\Debug\WebApplication1.pdb

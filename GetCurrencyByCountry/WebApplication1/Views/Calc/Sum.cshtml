@@ -1,0 +1,68 @@
+﻿@model WebApplication1.Models.SumModels
+@{
+    ViewBag.Title = "Sum Page";
+}
+@Html.Hidden("GetResultModel")
+
+<div ng-controller="calcController">
+    <div class="form-group">
+        @Html.LabelFor(a => a.firstNumber, new { @class = "col-lg-3 col-sm-2 control-label required" })
+        <div class="col-lg-9">
+            @Html.TextBoxFor(m => m.firstNumber, new
+       {
+           data_ng_model = "GetResultModel.firstNumber",
+           @class = "form-control",
+           id = "fn",
+           placeholder = "Enter First Number Here",
+           focus = "true",
+           spacenotonfirst = "",
+       })
+            @Html.ValidationMessageFor(m => m.firstNumber)
+
+        </div>
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(a => a.secondNumber, new { @class = "col-lg-3 col-sm-2 control-label required" })
+        <div class="col-lg-9">
+            @Html.TextBoxFor(m => m.secondNumber, new
+       {
+           data_ng_model = "GetResultModel.secondNumber",
+           @class = "form-control",
+           id="sn",
+           placeholder = "Enter Second Number Here",
+           focus = "true",
+           spacenotonfirst = "",
+       })
+            @Html.ValidationMessageFor(m => m.secondNumber)
+
+        </div>
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(a => a.sign, new { @class = "col-lg-3 col-sm-2 control-label required" })
+        <div class="col-lg-9">
+            @Html.TextBoxFor(m => m.sign, new
+       {
+           data_ng_model = "GetResultModel.sign",
+           @class = "form-control",
+           id = "si",
+           placeholder = "Enter sign Here",
+           focus = "true",
+           spacenotonfirst = "",
+       })
+            @Html.ValidationMessageFor(m => m.sign)
+
+        </div>
+    </div>
+    <label><b>Result is : </b></label> <label data-ng-bind="GetResultModel.result"><b>Result is : </b></label>
+    <div class="form-group">
+        <div class="col-md-offset-4 col-md-8">
+            <input type="submit" id="btnSubmit" value="Add" class="btn btn-success" data-ng-click="GetResult()" />
+        </div>
+    </div>
+</div>
+
+@section scripts {
+    @Scripts.Render("~/assets/js/resultjs")
+}
+
+
